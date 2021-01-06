@@ -1,0 +1,13 @@
+C:\Users\Adriana\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Adriana\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\Adriana\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\Adriana\source\repos\Test\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adriana\source\repos\Test\Test\bin\Debug\nunit.framework.dll
+C:\Users\Adriana\source\repos\Test\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adriana\source\repos\Test\Test\bin\Debug\nunit.framework.pdb
+C:\Users\Adriana\source\repos\Test\Test\bin\Debug\nunit.framework.xml
+C:\Users\Adriana\source\repos\Test\Test\obj\Debug\ImageMatcherSimulator.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\Test\Test\obj\Debug\ImageMatcherSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\Test\Test\obj\Debug\ImageMatcherSimulator.csproj.CopyComplete
+C:\Users\Adriana\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\Adriana\source\repos\Test\Test\obj\Debug\Test.pdb
